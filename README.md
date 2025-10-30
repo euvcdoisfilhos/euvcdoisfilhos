@@ -1,6 +1,6 @@
 ## Olá eu sou o Thiago Monteiro, estudante de Ánalise e Desenvolvimento de Sistemas!
 
-Linguagens que estudo e aplico em projeto atualmente:
+Linguagens que estudo e aplico em projetos atualmente:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
